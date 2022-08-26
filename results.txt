@@ -1,0 +1,32 @@
+Example 1:
+5cities
+NearestNeighbour:188   Time:1870
+RepetitiveNearestNeighbour:168   Time:1692
+Example 2:
+10cities
+NearestNeighbour:256   Time:0
+RepetitiveNearestNeighbour:237   Time:0
+Example 3:
+25cities
+NearestNeighbour:359   Time:997
+RepetitiveNearestNeighbour:254   Time:5410
+Example 4:
+50cities
+NearestNeighbour:369   Time:594
+RepetitiveNearestNeighbour:274   Time:6726
+Example 5:
+100cities
+NearestNeighbour:525   Time:7976
+RepetitiveNearestNeighbour:398   Time:75817
+Example 6:
+300cities
+NearestNeighbour:758   Time:6897
+RepetitiveNearestNeighbour:621   Time:1773899
+Example 7:
+500cities
+NearestNeighbour:912   Time:17378
+RepetitiveNearestNeighbour:788   Time:7146396
+Example 8:
+1000cities
+NearestNeighbour:1493   Time:64019
+RepetitiveNearestNeighbour:1275   Time:55433656
